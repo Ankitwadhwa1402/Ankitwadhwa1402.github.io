@@ -22,25 +22,50 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Since July 2023, I've been fully immersed in my role as a 
               <i>
-                <b className="purple"> C++,Python and Javascript. </b>
+                <b className="purple"> Software Developer &nbsp;</b>
+              </i>
+              at Chaayos, where I've made significant contributions to 
+              <i>
+                <b className="purple"> ReactJS projects.</b>
               </i>
               <br />
-              <br />I'm currently learning ReactJS,
-              My field of Interest's are building new &nbsp;
+              <br />
+              Over this period, I've dedicated myself to enhancing our software ecosystem,
+              having personally authored over 
               <i>
+                <b className="purple">1.1 lakh lines of code. </b>
+              </i> 
+              These contributions have been instrumental in the successful deployment of our solutions across more than 150 cafes. 
+              <br />
+              <br />
+              Beyond ReactJS, I've also delved into backend technologies such as 
+              <i>
+                <b className="purple"> &nbsp;Java, Spring Boot, MySQL, and MongoDB,  </b>
+              </i> 
+              broadening my skill set to ensure the robustness of our applications. 
+              Additionally, my versatility extends to Android app development in Java, 
+              where I 
+              <i>
+                <b className="purple"> &nbsp;single-handedly revamped the UI of two apps &nbsp;  </b>
+              </i>within the company, 
+              showcasing my ability to tackle challenges independently while delivering impactful results.
+{/* 
+              I'm currently learning ReactJS,
+              My field of Interest's are building new &nbsp; */}
+              {/* <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Deep Learning.
                 </b>
-              </i>
+              </i> */}
               <br />
               <br />
               
               Whenever possible, I starts developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Java, SpringBoot</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -78,7 +103,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/AnkitWa67639237"
+                  href="https://twitter.com/ankitwadhwa1402"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

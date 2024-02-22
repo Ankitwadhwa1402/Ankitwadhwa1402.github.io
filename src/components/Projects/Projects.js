@@ -28,7 +28,7 @@ function Projects() {
               cases for various states.Also made one more Dashboard on various states forRecovery ,
               death"
               demoLink="https://ankitwadhwa1402.github.io/Covid-19_Dashboard/tableau1.html"
-              // ghLink="https://ankitwadhwa1402.github.io/Covid-19_Dashboard/tableau.html"
+              ghLink="https://ankitwadhwa1402.github.io/Covid-19_Dashboard/tableau.html"
             />
           </Col>
 
@@ -49,6 +49,7 @@ function Projects() {
               isBlog={false}
               title="Interactive-Diary"
               description="You Can Add your story with discription & tags and later on edit it also."
+              ghLink="https://github.com/Ankitwadhwa1402/interactivediary"              
               
             />
           </Col>

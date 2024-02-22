@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Ankit Wadhwa</h3>
+          <h3>{/*Designed and Developed by */} Ankit Wadhwa</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} AW</h3>
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/AnkitWa67639237"
+                href="https://twitter.com/ankitwadhwa1402"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

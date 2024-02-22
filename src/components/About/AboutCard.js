@@ -10,9 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ankit Wadhwa </span>
             from <span className="purple"> Sonipat, Haryana, India.</span>
-            <br />I am final year Information Technology Undergraduate Student from UIET, 
-            Panjab University
-            Chandigarh.
+            <br />I am Enthusiastic and dedicated Software Developer with a Bachelor's degree in Information Technology from UIET,
+              Panjab University, Chandigarh. 
+              Currently employed full-time at Chaayos since July 2023,
+              demonstrating proficiency in developing robust software solutions.
             <br />
             <br />
             I've done Projects in Machine Learning and Web Development apart from these, some other activities that I love to do!
