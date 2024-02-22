@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e9f79b7.css",
+    "main.js": "/static/js/main.c80d1228.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Tableau.png": "/static/media/Tableau.6d9f77608c10e17852d7.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Interactive-dairy.png": "/static/media/Interactive-dairy.9cfa8a4697e085d87136.png",
+    "static/media/Ankit_Wadhwa-UIET_PU_CHANDIGARH.pdf": "/static/media/Ankit_Wadhwa-UIET_PU_CHANDIGARH.891196119f143433b0b9.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/StockPricePrediction.png": "/static/media/StockPricePrediction.e462fc37a77832f90281.png",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.845589e1c8eed2f2acc9.svg",
+    "index.html": "/index.html",
+    "main.3e9f79b7.css.map": "/static/css/main.3e9f79b7.css.map",
+    "main.c80d1228.js.map": "/static/js/main.c80d1228.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e9f79b7.css",
+    "static/js/main.c80d1228.js"
+  ]
+}
