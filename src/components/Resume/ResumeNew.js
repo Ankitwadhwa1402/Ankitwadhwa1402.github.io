@@ -8,10 +8,8 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-// const resumeLink =
-//   "https://raw.githubusercontent.com/ankitwadhwa1402/portfolio/master/src/Assets/Ankit_Wadhwa-UIET_PU_CHANDIGARH.pdf";
 const resumeLink =
-  "https://drive.google.com/file/d/1qvNxg_-7RczUM8z-PH4lytTgaMzW7eoz/view";
+  "https://raw.githubusercontent.com/ankitwadhwa1402/portfolio/master/src/Assets/Ankit_Wadhwa-UIET_PU_CHANDIGARH.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
